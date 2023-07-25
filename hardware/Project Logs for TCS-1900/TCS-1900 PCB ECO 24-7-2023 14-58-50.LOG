@@ -1,0 +1,21 @@
+Added Component: Designator=Q81(SOT-416)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MP"; Value = "2N7002PT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "SOT-416 NXP USA Inc."; VariantName = "[No Variations]"
+Added Component: Designator=U80(SOT-23-6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESDA6V1-5SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "ST Microelectronics"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=Q81-1
+Added Pin To Net: NetName=PWR_RESET Pin=Q81-2
+Added Pin To Net: NetName=GND Pin=Q81-3
+Added Pin To Net: NetName=GND Pin=U80-2
+Added Pin To Net: NetName=SIM_DATA Pin=U80-3
+Added Pin To Net: NetName=SIM_CLK Pin=U80-4
+Added Pin To Net: NetName=SIM_RST Pin=U80-5
+Added Pin To Net: NetName=SIM_VDD Pin=U80-6
+Added Member To Class: ClassName=TCS-1900 Member=Component Q81 2N7002PT
+Added Member To Class: ClassName=TCS-1900 Member=Component U80 ESDA6V1-5SC6
+Added Room: Name=TCS-1900

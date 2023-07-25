@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=ENT_1 Pin=X3-6
+Removed Pin From Net: NetName=Ent_2_CNT Pin=X3-8
+Change Component Footprint: Designator=X3 Old Footprint=conec_8_3mm New Footprint=conec_6
+Change Component Comment : Designator=X3 Old Comment=Conect_8 New Comment=Conect_6
+Added Pin To Net: NetName=ENT_1 Pin=X3-5
+Added Pin To Net: NetName=Ent_2_CNT Pin=X3-6
+Added Room: Name=TCS-1900

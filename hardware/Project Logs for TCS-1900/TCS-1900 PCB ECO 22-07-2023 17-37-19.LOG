@@ -1,0 +1,39 @@
+Change Component Comment : Designator=D4 Old Comment=* New Comment=
+Change Component Comment : Designator=D8 Old Comment=* New Comment=
+Change Component Description : Designator=L50 Old Description=Inductor: alambre; SMD; 33uH; 910mA; 240 mO; 7,3x7,3x3,2 mm; ±20% New Description=Inductor: alambre; SMD; 33uH; 910mA; 240 mO; 7,3x7,3x3,2 mm; ±20%
+Added Component: Designator=C81(C_0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C182(C_0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=R46(R_0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R69(R_0805)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R70(R_0805)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R71(R_0805)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R72(R_0805)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C81-1
+Added Pin To Net: NetName=VCC Pin=C81-2
+Added Pin To Net: NetName=GND Pin=C182-1
+Added Pin To Net: NetName=V_EXT_REG Pin=C182-2
+Added Pin To Net: NetName=D. BAT Pin=R46-1
+Added Pin To Net: NetName=GND Pin=R46-2
+Added Pin To Net: NetName=3.3V1 Pin=R69-1
+Added Pin To Net: NetName=CMD Pin=R69-2
+Added Pin To Net: NetName=3.3V1 Pin=R70-1
+Added Pin To Net: NetName=DATA0 Pin=R70-2
+Added Pin To Net: NetName=3.3V1 Pin=R71-1
+Added Pin To Net: NetName=DATA3 Pin=R71-2
+Added Pin To Net: NetName=3.3V1 Pin=R72-1
+Added Pin To Net: NetName=SCK_SD Pin=R72-2
+Added Member To Class: ClassName=TCS-1900 Member=Component C81 100nF
+Added Member To Class: ClassName=TCS-1900 Member=Component C182 100nF
+Added Member To Class: ClassName=TCS-1900 Member=Component R46 10k
+Added Member To Class: ClassName=TCS-1900 Member=Component R69 10K
+Added Member To Class: ClassName=TCS-1900 Member=Component R70 10K
+Added Member To Class: ClassName=TCS-1900 Member=Component R71 10K
+Added Member To Class: ClassName=TCS-1900 Member=Component R72 10K
+Added Room: Name=TCS-1900

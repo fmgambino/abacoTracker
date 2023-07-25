@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=X5-1
+Added Pin To Net: NetName=TX_GSM Pin=X5-2
+Added Pin To Net: NetName=RX_GSM Pin=X5-3
+Added Room: Name=TCS-1900

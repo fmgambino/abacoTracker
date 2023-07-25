@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=D8 Old Footprint=Led_1206G New Footprint=D_0805-GREEN
+Change Component Footprint: Designator=D4 Old Footprint=Led_1206R New Footprint=D_0805-GREEN
+Change Component Comment : Designator=D4 Old Comment= New Comment=LTST-C171GKT
+Change Component Comment : Designator=D8 Old Comment= New Comment=LTST-C171GKT
+Change component parameters: Designator = "D4" ("D4"); Footprint = "Led_1206R"; UniqueID = "\IWZNNDOT" ("\IWZNNDOT")
+Change component parameters: Designator = "D8" ("D8"); Footprint = "Led_1206G"; UniqueID = "\VBWRTHSV" ("\VBWRTHSV")
+Added Room: Name=TCS-1900
