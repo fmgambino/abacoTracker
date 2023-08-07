@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=3.3V Pin=C107-2
+Removed Pin From Net: NetName=3.3V Pin=C108-2
+Removed Pin From Net: NetName=3.3V Pin=C109-2
+Removed Pin From Net: NetName=GND Pin=J8-2
+Removed Pin From Net: NetName=GND Pin=J8-3
+Removed Pin From Net: NetName=GND Pin=J8-4
+Removed Pin From Net: NetName=GND Pin=J8-5
+Removed Pin From Net: NetName=GND Pin=J9-2
+Removed Pin From Net: NetName=GND Pin=J9-3
+Removed Pin From Net: NetName=GND Pin=J9-4
+Removed Pin From Net: NetName=GND Pin=J9-5
+Removed Pin From Net: NetName=GND Pin=J10-GND
+Removed Pin From Net: NetName=GND Pin=J10-GND
+Removed Pin From Net: NetName=GND Pin=J10-GND
+Removed Pin From Net: NetName=GND Pin=J10-GND
+Removed Pin From Net: NetName=GND Pin=J10-GND
+Removed Pin From Net: NetName=GND Pin=J10-GND
+Removed Pin From Net: NetName=NetR120_1 Pin=R120-1
+Removed Pin From Net: NetName=RX_UART0 Pin=R120-2
+Removed Pin From Net: NetName=3.3V Pin=R121-1
+Removed Pin From Net: NetName=NetR121_2 Pin=R121-2
+Removed Pin From Net: NetName=NetR122_1 Pin=R122-1
+Removed Pin From Net: NetName=NetR122_2 Pin=R122-2
+Removed Pin From Net: NetName=NetR122_2 Pin=R470-1
+Removed Pin From Net: NetName=3.3V Pin=R470-2
+Removed Pin From Net: NetName=NetR121_2 Pin=U60-1
+Removed Pin From Net: NetName=NetR121_2 Pin=U60-2
+Removed Pin From Net: NetName=NetR121_2 Pin=U60-3
+Removed Pin From Net: NetName=D- Pin=U60-4
+Removed Pin From Net: NetName=NetC106_2 Pin=U60-6
+Removed Pin From Net: NetName=GND Pin=U60-7
+Removed Pin From Net: NetName=VBUS Pin=U60-8
+Removed Pin From Net: NetName=GND Pin=U60-9
+Removed Pin From Net: NetName=VBUS Pin=U60-10
+Removed Pin From Net: NetName=NetR120_1 Pin=U60-11
+Removed Pin From Net: NetName=RTS Pin=U60-12
+Removed Pin From Net: NetName=3.3V Pin=U60-14
+Removed Pin From Net: NetName=NetR122_1 Pin=U60-15
+Removed Pin From Net: NetName=NetR121_2 Pin=U60-16
+Removed Member From Class: ClassName=TCS-1900 Member=R120
+Removed Member From Class: ClassName=TCS-1900 Member=R121
+Removed Member From Class: ClassName=TCS-1900 Member=R122
+Removed Member From Class: ClassName=TCS-1900 Member=R470
+Change Component Footprint: Designator=U60 Old Footprint=SO016 New Footprint=SOIC127P600X180-16N
+Change Component Comment : Designator=U60 Old Comment=CH340C New Comment=CH340G
+Change component parameters: Designator = "C106"; Footprint = "C_0805-3D"; UniqueID = "\TCUDKSBD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "value"; Value = "10nf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C107"; Footprint = "C_0805-3D"; UniqueID = "\YFYVXNTB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "value"; Value = "0.1uf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C108"; Footprint = "C_0805-3D"; UniqueID = "\EGRMBPDV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "value"; Value = "22pf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C109"; Footprint = "C_0805-3D"; UniqueID = "\DNQQJLQJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "value"; Value = "22pf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U60"; Footprint = "SOIC127P600X180-16N"; UniqueID = "\FMLVXNBR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "WCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CH340G"; VariantName = "[No Variations]"
+Added Component: Designator=J2(JUMPER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JUMPER"; Value = "JUMPER"; VariantName = "[No Variations]"
+Added Component: Designator=J3(JUMPER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JUMPER"; Value = "JUMPER"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(XTAL_ECS-250-18-4X-F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MP"; Value = "25 MHz ±30ppm Cristal 18pF 30 ohmios HC-49/US"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=C107-2
+Added Pin To Net: NetName=NetR122_1 Pin=C108-2
+Added Pin To Net: NetName=NetR122_2 Pin=C109-2
+Added Pin To Net: NetName=NetR122_2 Pin=J2-1
+Added Pin To Net: NetName=NetR120_1 Pin=J2-2
+Added Pin To Net: NetName=NetR121_2 Pin=J3-1
+Added Pin To Net: NetName=NetR122_1 Pin=J3-2
+Added Pin To Net: NetName=GND Pin=U60-1
+Added Pin To Net: NetName=RX_UART0 Pin=U60-2
+Added Pin To Net: NetName=TX_UART0 Pin=U60-3
+Added Pin To Net: NetName=NetC106_2 Pin=U60-4
+Added Pin To Net: NetName=D- Pin=U60-6
+Added Pin To Net: NetName=NetR121_2 Pin=U60-7
+Added Pin To Net: NetName=NetR120_1 Pin=U60-8
+Added Pin To Net: NetName=RTS Pin=U60-14
+Added Pin To Net: NetName=VBUS Pin=U60-16
+Added Pin To Net: NetName=NetR122_1 Pin=Y1-1
+Added Pin To Net: NetName=NetR122_2 Pin=Y1-2
+Change Net Name : Old Net Name=NetR120_1 New Net Name=XO
+Change Net Name : Old Net Name=NetR121_2 New Net Name=XI
+Change Net Name : Old Net Name=NetR122_1 New Net Name=NetC108_2
+Change Net Name : Old Net Name=NetR122_2 New Net Name=NetC109_2
+Added Member To Class: ClassName=TCS-1900 Member=Component J2 JUMPER
+Added Member To Class: ClassName=TCS-1900 Member=Component J3 JUMPER
+Added Member To Class: ClassName=TCS-1900 Member=Component Y1 cristal
+Added Room: Name=TCS-1900

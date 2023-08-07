@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC109_2 Pin=Y1-2
+Change Component Footprint: Designator=Y1 Old Footprint=XTAL_ECS-250-18-4X-F New Footprint=XTAL_ABM8G25000MHZB4YT3
+Change component parameters: Designator = "Y1"; Footprint = "XTAL_ABM8G25000MHZB4YT3"; UniqueID = "\MJIYECYB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "Abracon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ABM8G25000MHZB4YT3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=NetC109_2 Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Room: Name=TCS-1900

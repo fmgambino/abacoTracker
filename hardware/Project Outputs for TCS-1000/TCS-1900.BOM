@@ -1,5 +1,5 @@
 Bill of Material for 
-On 28/7/2023 at 14:22:08
+On 6/8/2023 at 22:49:40
 
  Comment             Pattern     Quantity  Components
 ------------------------------------------------------------------------------
@@ -16,8 +16,8 @@ On 28/7/2023 at 14:22:08
                                            R36, R40, R41, R42, R43, R45
                                            R46, R69, R70, R71, R72, R74
                                            R131, R132, R150
- 10M                 R_0805           1    R130                                              
- 10R 5%              R_0805           3    R63, R64, R470                                    
+ 10m                 R_0805           1    R130                                              
+ 10R 5%              R_0805           2    R63, R64                                          
  10uF/5V             C_0805-3D        1    C70                          capacitor ceramico 0805 
  10uF/5V             CT_0805          9    C1, C2, C7, C8, C30, C36, C39 Capacitor            
                                            C43, C45
@@ -27,8 +27,7 @@ On 28/7/2023 at 14:22:08
  1uF                 C_0805-3D        2    C63, C64                     capacitor ceramico 0805 
  200k                R_0805           1    R37                          Resistor             
  22                  R_0805           3    R22, R24, R25                Resistor             
- 220                 R_0805           6    R120, R122, R161, R162, R165                      
-                                           R166
+ 220                 R_0805           4    R161, R162, R165, R166                            
  22nF                C_0805           1    C19                          Capacitor            
  293D107X9010D2TE3   CAP-TANTALIO-PM7343X310N    1    C200                         Capacitores de tantalio moldeado de 100 µF 10 V 2917 (7343 métrico) 600 mOhm 
  2K                  R_0805           1    R91                                               
@@ -37,7 +36,7 @@ On 28/7/2023 at 14:22:08
  330uF/10V           CPM7343-31       1    C3                           Capacitor aluminio   
  4.7K                R_0805           1    R73                                               
  4.7uF/5V            C_0805-3D        2    C90, C91                     capacitor ceramico 0805 
- 470                 R_0805           3    R90, R100, R121                                   
+ 470                 R_0805           2    R90, R100                                         
  470uF/35V           Cap_8x10         1    C4                           Capacitor aluminio   
  47k                 R_0805           1    R133                                              
  47uF/5V             CT_0805          4    C20, C21, C26, C27           Capacitor            
@@ -58,9 +57,10 @@ On 28/7/2023 at 14:22:08
  capacitor caramico  C_0805-3D        6    C101, C102, C106, C107, C108 capacitor ceramico 0805 
                                            C109
  CAT25512VI-GT3      SOIC8_P          1    U10                          512 Kbit SPI Bus Serial EEPROM, 8-Pin SOIC, Extended Temperature 
- CH340C              SO016            1    U60                          CH340C USB/UART      
+ CH340G              SOIC127P600X180-16N    1    U60                          USB Interface Integrated Circuit 
  Conect_3            conec_3          1    X5                           Header, 3-Pin        
  Conect_6            conec_6_3mm      1    X3                           Header, 6-Pin        
+ cristal             XTAL_ABM8G25000MHZB4YT3    1    Y1                           CRISTAL, SELLO DE VIDRIO CERAMICO, 25.000MHZ, 10PF, 30PPM @ 25C, 3 
  DE0703-33           DE0703-33        1    L50                          Inductor: alambre; SMD; 33uH; 910mA; 240 mO; 7,3x7,3x3,2 mm; ±20% 
  DW01A               SOT23-6          1    U300                         Optron               
  ESDA6V1-5SC6        SOT-23-6         1    U80                          Array for ESD protection 

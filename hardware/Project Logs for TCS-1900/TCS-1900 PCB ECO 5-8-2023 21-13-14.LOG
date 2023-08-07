@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=XO Pin=J2-2
+Removed Pin From Net: NetName=XI Pin=J3-1
+Removed Member From Class: ClassName=TCS-1900 Member=J2
+Removed Member From Class: ClassName=TCS-1900 Member=J3
+Added Pin To Net: NetName=XI Pin=C108-2
+Added Pin To Net: NetName=XO Pin=C109-2
+Added Pin To Net: NetName=XI Pin=Y1-1
+Added Pin To Net: NetName=XO Pin=Y1-3
+Added Room: Name=TCS-1900
