@@ -1,11 +1,12 @@
-Output: Simple BOM
-Type  : SimpleBOM
-From  : Variant [[No Variations]] of Project [TCS-1900.PrjPcb]
-   Generated File[TCS-1900.BOM]
-   Generated File[TCS-1900.CSV]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TCS-1900.PrjPcb]
+   Generated File[TCS-1900.TXT]
+   Generated File[TCS-1900.LDP]
+   Generated File[TCS-1900.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 22:49:40 On 6/8/2023
+Finished Output Generation At 13:57:26 On 8/8/2023
