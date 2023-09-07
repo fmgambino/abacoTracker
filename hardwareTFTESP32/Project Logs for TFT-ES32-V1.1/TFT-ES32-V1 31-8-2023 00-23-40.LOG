@@ -1,0 +1,11 @@
+Added Component: Designator=U13(TO170P1524X483-6N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=V_EX Pin=U13-1
+Added Pin To Net: NetName=NetD5_C Pin=U13-2
+Added Pin To Net: NetName=GND Pin=U13-3
+Added Pin To Net: NetName=VCC Pin=U13-4
+Added Pin To Net: NetName=NetQ1_2 Pin=U13-5
+Added Pin To Net: NetName=GND Pin=U13-6
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component U1 ESP32-S3-WROOM-1-N4R2
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component U13 LM2596S-5.0
+Added Room: Name=TFT-ES32-V1.1

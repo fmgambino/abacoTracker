@@ -1,0 +1,15 @@
+Added Component: Designator=Q5(DPAK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(DPAK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=GND Pin=Q5-3
+Added Pin To Net: NetName=NetJ8_2 Pin=Q5-4
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=GND Pin=Q8-3
+Added Pin To Net: NetName=NetJ10_2 Pin=Q8-4
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component Q5 MJD122
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component Q8 MJD122
+Added Room: Name=TFT-ES32-V1.1

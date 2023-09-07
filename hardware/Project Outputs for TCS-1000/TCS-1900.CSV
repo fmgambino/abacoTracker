@@ -1,5 +1,5 @@
 "Bill of Material for "
-"On 6/8/2023 at 22:49:40"
+"On 30/8/2023 at 14:24:19"
 
 "Comment","Pattern","Quantity","Components"
 
@@ -12,7 +12,7 @@
 "10D470K","Varistor","1","RV1","Varistor"
 "10K 5%","R_0805","2","R60, R61",""
 "10k","R_0805","22","R1, R2, R5, R6, R11, R20, R34, R36, R40, R41, R42, R43, R45, R46, R69, R70, R71, R72, R74, R131, R132, R150","Resistor"
-"10m","R_0805","1","R130",""
+"10M","R_0805","1","R130",""
 "10R 5%","R_0805","2","R63, R64",""
 "10uF/5V","C_0805-3D","1","C70","capacitor ceramico 0805"
 "10uF/5V","CT_0805","9","C1, C2, C7, C8, C30, C36, C39, C43, C45","Capacitor"

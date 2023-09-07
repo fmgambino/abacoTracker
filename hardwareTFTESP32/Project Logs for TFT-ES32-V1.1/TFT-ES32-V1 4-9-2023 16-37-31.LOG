@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GND Pin=C8-2
+Change Component DesignItemId : Designator=C10 Old DesignItemId=CapMix New DesignItemId=capacitor caramico
+Change Component DesignItemId : Designator=C12 Old DesignItemId=CapMix New DesignItemId=capacitor caramico
+Change Component DesignItemId : Designator=C8 Old DesignItemId=CapTantalio New DesignItemId=capacitor caramico
+Change Component DesignItemId : Designator=C9 Old DesignItemId=CapTantalio New DesignItemId=capacitor caramico
+Change Component Footprint: Designator=C8 Old Footprint=0603 New Footprint=C_0805-3D
+Change Component Footprint: Designator=C9 Old Footprint=0603 New Footprint=C_0805-3D
+Change Component Footprint: Designator=C10 Old Footprint=0805 New Footprint=C_0805-3D
+Change Component Footprint: Designator=C12 Old Footprint=DISCRETE_C0603 New Footprint=C_0805-3D
+Change Component Comment : Designator=C8 Old Comment=47uF/5V New Comment=47uF
+Change Component Comment : Designator=C9 Old Comment=47uF/5V New Comment=47uF
+Change Component Description : Designator=C8 Old Description=Capacitor New Description=capacitor ceramico 0805
+Change Component Description : Designator=C9 Old Description=Capacitor New Description=capacitor ceramico 0805
+Change Component Description : Designator=C10 Old Description=Capacitor New Description=capacitor ceramico 0805
+Change Component Description : Designator=C12 Old Description=Capacitor New Description=capacitor ceramico 0805
+Change Component Description : Designator=L2 Old Description=Inductor: alambre; SMD; 33uH; 910mA; 240 mO; 7,3x7,3x3,2 mm; ±20% New Description=Inductor: alambre; SMD; 33uH; 910mA; 240 mO; 7,3x7,3x3,2 mm; ±20%
+Change Component Description : Designator=L11 Old Description=Inductor: alambre; SMD; 33uH; 910mA; 240 mO; 7,3x7,3x3,2 mm; ±20% New Description=Inductor: alambre; SMD; 33uH; 910mA; 240 mO; 7,3x7,3x3,2 mm; ±20%
+Change Component Library : Designator=C8 Old Library=personal.IntLib New Library=Libreria esquematico.SchLib
+Change Component Library : Designator=C9 Old Library=personal.IntLib New Library=Libreria esquematico.SchLib
+Change Component Library : Designator=C10 Old Library=personal.IntLib New Library=Libreria esquematico.SchLib
+Change Component Library : Designator=C12 Old Library=personal.IntLib New Library=Libreria esquematico.SchLib
+Change component parameters: Designator = "C8"; Footprint = "C_0805-3D"; UniqueID = "\SIUOJOTV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "C9"; Footprint = "C_0805-3D"; UniqueID = "\YUUHXUVX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "C10"; Footprint = "C_0805-3D"; UniqueID = "\BJFDFKFQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "C12"; Footprint = "C_0805-3D"; UniqueID = "\XFVVKMAX"
+Change component parameters. Clean all parameters for all variants
+Added Room: Name=TFT-ES32-V1.1

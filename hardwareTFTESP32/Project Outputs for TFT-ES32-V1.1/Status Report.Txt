@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [TFT-ES32-V1.1.PrjPcb]
+   Generated File[TFT-ES32-V1.1.BOM]
+   Generated File[TFT-ES32-V1.1.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 14:23:29 On 30/8/2023

@@ -1,0 +1,42 @@
+Added Component: Designator=C90(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C91(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U15(SOP65P640X120-8N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C90-1
+Added Pin To Net: NetName=NetC4_2 Pin=C90-2
+Added Pin To Net: NetName=NetC4_2 Pin=C91-1
+Added Pin To Net: NetName=GND Pin=C91-2
+Added Pin To Net: NetName=NetJ4_7 Pin=U15-2
+Added Pin To Net: NetName=NetC4_2 Pin=U15-3
+Added Pin To Net: NetName=GND Pin=U15-4
+Added Pin To Net: NetName=NetJ4_3 Pin=U15-5
+Added Pin To Net: NetName=NetJ4_5 Pin=U15-6
+Added Pin To Net: NetName=NetC4_2 Pin=U15-7
+Added Pin To Net: NetName=NetC4_2 Pin=U15-8
+Added Pin To Net: NetName=NetU1_31 Pin=U1-31
+Added Pin To Net: NetName=NetU1_31 Pin=U15-1
+Added Net: Name=NetU1_31
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C50 470uF/35V
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C51 100nF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C52 100nF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C53 330uF/10V
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C55 100nF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C57 CAP
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C60 10nf
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C61 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C62 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C90 100nF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C91 10uF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component D20 SP0503BAHTG
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component FLASH buton-SMD
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component L10 1mH
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component L11 DE0703-33
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component RESET buton-SMD
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component U12 TL084CDT
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component U13 LM2596S-5.0
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component U14 LM7812S/NOPB
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component U15 CAT25512YI-GT3
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component U20 DW01A
+Added Room: Name=TFT-ES32-V1.1

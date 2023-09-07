@@ -1,0 +1,7 @@
+Added Component: Designator=R90(R_0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetU1_31 Pin=R90-1
+Added Pin To Net: NetName=NetC4_2 Pin=R90-2
+Change Net Name : Old Net Name=NetU1_31 New Net Name=NetR90_1
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R90 10K
+Added Room: Name=TFT-ES32-V1.1

@@ -1,0 +1,13 @@
+Change Component DesignItemId : Designator=L1 Old DesignItemId=B82477R4682M100 New DesignItemId=DE0703-33
+Change Component DesignItemId : Designator=D6 Old DesignItemId=Diodo Zener-MMSZ5231BT1G New DesignItemId=SS56B-HF
+Change Component Footprint: Designator=L1 Old Footprint=IND_B82477R4682M100 New Footprint=DE0703-33
+Change Component Footprint: Designator=D6 Old Footprint=SOD_123 New Footprint=SS56B-HF DO-214AA (SMB)
+Change Component Comment : Designator=D6 Old Comment= New Comment=SS56B-HF
+Change Component Description : Designator=D6 Old Description=Diodo Zener 18V SMD SOD-123 New Description=Diodo Schottky 60 V 5A Montaje en superficie DO-214AA (SMB)
+Change Component Description : Designator=L1 Old Description=INDUCTOR, POWER, 6.8UH, 10.5A, 20%; Product Range:EPCOS - B82477R4 Series; Inductance:6.8µH; Inductance Tolerance:± 20%; Inductor New Description=Inductor: alambre; SMD; 33uH; 910mA; 240 mO; 7,3x7,3x3,2 mm; ±20%
+Change component parameters: Designator = "D6"; Footprint = "SS56B-HF DO-214AA (SMB)"; UniqueID = "\BBRQFCBO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "pakage"; Value = "DO-214AA (SMB)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "part number"; Value = "SS56B-HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "Diodo Schottky 60 V 5A"; VariantName = "[No Variations]"
+Added Room: Name=TFT-ES32-V1.1

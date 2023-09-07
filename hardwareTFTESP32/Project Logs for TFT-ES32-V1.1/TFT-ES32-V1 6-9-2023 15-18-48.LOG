@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=+4.2 Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=R9-2
+Change Component DesignItemId : Designator=R7 Old DesignItemId=ResSmd New DesignItemId=Resistor
+Change Component DesignItemId : Designator=R9 Old DesignItemId=ResSmd New DesignItemId=Resistor
+Change Component Footprint: Designator=R7 Old Footprint=DISCRETE_R0603 New Footprint=R_0805
+Change Component Footprint: Designator=R9 Old Footprint=DISCRETE_R0603 New Footprint=R_0805
+Change Component Designator: OldDesignator=U? NewDesignator=U20
+Change Component Description : Designator=R7 Old Description=Resistor New Description=
+Change Component Description : Designator=R9 Old Description=Resistor New Description=
+Change Component Library : Designator=R7 Old Library=personal.IntLib New Library=Libreria esquematico.SchLib
+Change Component Library : Designator=R9 Old Library=personal.IntLib New Library=Libreria esquematico.SchLib
+Change component parameters: Designator = "R7"; Footprint = "R_0805"; UniqueID = "\FJTTLHWA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R9"; Footprint = "R_0805"; UniqueID = "\BXCVYLXG"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=+4.2 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R9-2
+Added Pin To Net: NetName=NetR7_1 Pin=U1-11
+Added Net: Name=NetR7_1
+Added Room: Name=TFT-ES32-V1.1

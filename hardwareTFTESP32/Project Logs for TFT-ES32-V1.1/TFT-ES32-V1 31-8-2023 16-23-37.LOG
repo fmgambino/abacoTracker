@@ -1,0 +1,52 @@
+Added Component: Designator=C50(CAP_EEEFP1V221AV - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "max volt"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C51(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C52(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C53(CAP_EEEFP1V221AV - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "max volt"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C55(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F1(FUSER_MF-MSMF075/24-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L10(INDM5650X530N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L11(DE0703-33)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RT1(0ZCF)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0ZCF0150FF2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Belfuse"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC50_1 Pin=C50-1
+Added Pin To Net: NetName=GND Pin=C50-2
+Added Pin To Net: NetName=V_EX Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=V_EX Pin=C52-2
+Added Pin To Net: NetName=VCC Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C53-2
+Added Pin To Net: NetName=GND Pin=C55-1
+Added Pin To Net: NetName=VCC Pin=C55-2
+Added Pin To Net: NetName=NetD1_C Pin=F1-1
+Added Pin To Net: NetName=NetC50_1 Pin=F1-2
+Added Pin To Net: NetName=NetC50_1 Pin=L10-1
+Added Pin To Net: NetName=V_EX Pin=L10-2
+Added Pin To Net: NetName=NetD5_C Pin=L11-1
+Added Pin To Net: NetName=VCC Pin=L11-2
+Added Pin To Net: NetName=GND Pin=RT1-1
+Added Pin To Net: NetName=NetC50_1 Pin=RT1-2
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C50 470uF/35V
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C51 100nF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C52 100nF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C53 330uF/10V
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C55 100nF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component F1 FUSE-MF-MSMF075/24-2
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component L10 1mH
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component L11 DE0703-33
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component RT1 0ZCF0150FF2C
+Added Room: Name=TFT-ES32-V1.1
