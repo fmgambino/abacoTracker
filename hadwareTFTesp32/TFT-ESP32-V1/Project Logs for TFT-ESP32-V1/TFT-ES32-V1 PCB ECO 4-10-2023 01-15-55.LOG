@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=NetC4_2 Pin=J1-5
+Removed Pin From Net: NetName=NetC11_2 Pin=J1-6
+Removed Pin From Net: NetName=NetC4_2 Pin=J6-3
+Removed Pin From Net: NetName=GND Pin=J6-4
+Removed Pin From Net: NetName=GND Pin=J6-5
+Removed Pin From Net: NetName=GND Pin=J6-6
+Change Component Footprint: Designator=J1 Old Footprint=68710614022 New Footprint=620104131822
+Change Component Footprint: Designator=J6 Old Footprint=AMPHENOL_59453-041110ECHLF New Footprint=620104131822
+Change Component Comment : Designator=J6 Old Comment=CONEC-4P-0.5MM-59453-041110ECHLF New Comment=620104131822
+Change Component Comment : Designator=J1 Old Comment=FPC-6PIN-0.5MM New Comment=620104131822
+Change component parameters: Designator = "J1"; Footprint = "620104131822"; UniqueID = "\TDBBTKQX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MP"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6"; Footprint = "620104131822"; UniqueID = "\OGBFROVV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MP"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=NetC4_2 Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=U1-13
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=U1-14
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_3 Pin=U1-36
+Added Pin To Net: NetName=NetJ6_3 Pin=U6-2
+Added Net: Name=NetJ6_3
+Added Room: Name=TFT-ES32-V1.1

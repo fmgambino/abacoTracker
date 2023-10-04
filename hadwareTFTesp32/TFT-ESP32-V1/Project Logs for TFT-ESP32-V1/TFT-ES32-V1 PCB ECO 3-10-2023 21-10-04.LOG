@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=GND Pin=J2-01
+Removed Pin From Net: NetName=NetJ2_03 Pin=Q4-2
+Removed Pin From Net: NetName=NetJ2_03 Pin=Q4-4
+Removed Pin From Net: NetName=NetR13_1 Pin=U1-10
+Removed Pin From Net: NetName=NetR7_1 Pin=U1-11
+Removed Pin From Net: NetName=NetJ2_04 Pin=U1-17
+Removed Pin From Net: NetName=NetJ2_08 Pin=U1-23
+Removed Pin From Net: NetName=NetJ2_10 Pin=U1-24
+Removed Pin From Net: NetName=NetJ2_05 Pin=U1-30
+Removed Pin From Net: NetName=NetJ2_07 Pin=U1-33
+Removed Pin From Net: NetName=NetJ2_09 Pin=U1-34
+Removed Pin From Net: NetName=NetR28_2 Pin=U1-38
+Added Pin To Net: NetName=GND Pin=J2-02
+Added Pin To Net: NetName=NetJ2_04 Pin=Q4-2
+Added Pin To Net: NetName=NetJ2_04 Pin=Q4-4
+Added Pin To Net: NetName=NetJ2_03 Pin=U1-5
+Added Pin To Net: NetName=NetJ2_05 Pin=U1-6
+Added Pin To Net: NetName=NetJ2_07 Pin=U1-7
+Added Pin To Net: NetName=NetJ2_09 Pin=U1-8
+Added Pin To Net: NetName=NetJ2_08 Pin=U1-16
+Added Pin To Net: NetName=NetJ2_10 Pin=U1-17
+Added Pin To Net: NetName=NetR28_2 Pin=U1-33
+Added Pin To Net: NetName=NetR13_1 Pin=U1-34
+Added Pin To Net: NetName=NetR7_1 Pin=U1-38
+Added Pin To Net: NetName=NetJ2_01 Pin=J2-01
+Added Pin To Net: NetName=NetJ2_01 Pin=U1-4
+Added Net: Name=NetJ2_01
+Added Pin To Net: NetName=NetJ2_11 Pin=J2-11
+Added Pin To Net: NetName=NetJ2_11 Pin=U1-9
+Added Net: Name=NetJ2_11
+Added Pin To Net: NetName=NetJ2_13 Pin=J2-13
+Added Pin To Net: NetName=NetJ2_13 Pin=U1-10
+Added Net: Name=NetJ2_13
+Added Pin To Net: NetName=NetJ2_15 Pin=J2-15
+Added Pin To Net: NetName=NetJ2_15 Pin=U1-11
+Added Net: Name=NetJ2_15
+Added Pin To Net: NetName=NetJ2_30 Pin=J2-30
+Added Pin To Net: NetName=NetJ2_30 Pin=U1-12
+Added Net: Name=NetJ2_30
+Added Pin To Net: NetName=NetJ2_34 Pin=J2-34
+Added Pin To Net: NetName=NetJ2_34 Pin=U1-15
+Added Net: Name=NetJ2_34
+Added Pin To Net: NetName=NetJ2_38 Pin=J2-38
+Added Net: Name=NetJ2_38
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component U1 ESP32-S3-WROOM-1-N4R2
+Added Room: Name=TFT-ES32-V1.1
