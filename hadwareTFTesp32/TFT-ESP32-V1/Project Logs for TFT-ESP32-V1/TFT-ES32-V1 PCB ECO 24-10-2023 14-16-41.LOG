@@ -1,0 +1,315 @@
+Change Component Description : Designator=L11 Old Description=Inductor: alambre; SMD; 33uH; 910mA; 240 mO; 7,3x7,3x3,2 mm; ±20% New Description=Inductor: alambre; SMD; 33uH; 910mA; 240 mO; 7,3x7,3x3,2 mm; ±20%
+Added Component: Designator=C70(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C71(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C72(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C73(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C74(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C75(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C76(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C77(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C78(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C79(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C80(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C81(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C82(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C83(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C84(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C85(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C86(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C87(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C88(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C89(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C94(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C95(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C96(C_0805-3D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D15(SS56B-HF DO-214AA (SMB))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "pakage"; Value = "DO-214AA (SMB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "part number"; Value = "SS56B-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "Diodo Schottky 60 V 5A"; VariantName = "[No Variations]"
+Added Component: Designator=D19(SS56B-HF DO-214AA (SMB))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "pakage"; Value = "DO-214AA (SMB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "part number"; Value = "SS56B-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "Diodo Schottky 60 V 5A"; VariantName = "[No Variations]"
+Added Component: Designator=J15(620102131822)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J16(620102131822)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R60(R_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R61(R_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R62(R_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R63(R_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R64(R_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R65(R_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R66(R_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R67(R_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R68(R_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R69(R_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R70(R_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R71(R_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U18(QFN45P400X400X90-29N-D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = "ES8388"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Everest"; VariantName = "[No Variations]"
+Added Component: Designator=U19(SOIC127P605X150-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PAM8403DR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_2 Pin=C70-2
+Added Pin To Net: NetName=NetC4_2 Pin=C71-2
+Added Pin To Net: NetName=NetC4_2 Pin=C72-2
+Added Pin To Net: NetName=NetC4_2 Pin=C73-2
+Added Pin To Net: NetName=GND Pin=C82-1
+Added Pin To Net: NetName=NetC4_2 Pin=C82-2
+Added Pin To Net: NetName=GND Pin=C83-1
+Added Pin To Net: NetName=NetC4_2 Pin=C83-2
+Added Pin To Net: NetName=GND Pin=C84-1
+Added Pin To Net: NetName=NetC4_2 Pin=C84-2
+Added Pin To Net: NetName=GND Pin=C85-1
+Added Pin To Net: NetName=NetC4_2 Pin=C85-2
+Added Pin To Net: NetName=VBUS Pin=D15-1
+Added Pin To Net: NetName=VCC Pin=D15-2
+Added Pin To Net: NetName=+Va Pin=D19-1
+Added Pin To Net: NetName=VCC Pin=D19-2
+Added Pin To Net: NetName=NetC21_2 Pin=R60-1
+Added Pin To Net: NetName=NetJ1_4 Pin=R65-1
+Added Pin To Net: NetName=NetC4_2 Pin=R65-2
+Added Pin To Net: NetName=NetJ1_3 Pin=R66-1
+Added Pin To Net: NetName=NetC4_2 Pin=R66-2
+Added Pin To Net: NetName=NetC4_2 Pin=R67-2
+Added Pin To Net: NetName=GND Pin=R69-1
+Added Pin To Net: NetName=NetC4_2 Pin=U18-2
+Added Pin To Net: NetName=NetC4_2 Pin=U18-16
+Added Pin To Net: NetName=NetJ1_3 Pin=U18-27
+Added Pin To Net: NetName=NetJ1_4 Pin=U18-28
+Added Pin To Net: NetName=NetC4_2 Pin=U19-4
+Added Pin To Net: NetName=NetC4_2 Pin=U19-6
+Added Pin To Net: NetName=GND Pin=U19-11
+Added Pin To Net: NetName=GND Pin=U19-12
+Added Pin To Net: NetName=NetC4_2 Pin=U19-13
+Added Pin To Net: NetName=AGND Pin=C76-1
+Added Pin To Net: NetName=AGND Pin=C77-1
+Added Pin To Net: NetName=AGND Pin=C78-1
+Added Pin To Net: NetName=AGND Pin=C79-1
+Added Pin To Net: NetName=AGND Pin=C80-1
+Added Pin To Net: NetName=AGND Pin=C81-1
+Added Pin To Net: NetName=AGND Pin=C86-2
+Added Pin To Net: NetName=AGND Pin=R68-2
+Added Pin To Net: NetName=AGND Pin=R69-2
+Added Pin To Net: NetName=AGND Pin=U18-4
+Added Pin To Net: NetName=AGND Pin=U18-13
+Added Pin To Net: NetName=AGND Pin=U18-18
+Added Pin To Net: NetName=AGND Pin=U18-29
+Added Pin To Net: NetName=AGND Pin=U19-2
+Added Pin To Net: NetName=AGND Pin=U19-15
+Added Net: Name=AGND
+Added Pin To Net: NetName=NetC70_1 Pin=C70-1
+Added Pin To Net: NetName=NetC70_1 Pin=C71-1
+Added Pin To Net: NetName=NetC70_1 Pin=U18-3
+Added Net: Name=NetC70_1
+Added Pin To Net: NetName=NetC72_1 Pin=C72-1
+Added Pin To Net: NetName=NetC72_1 Pin=C73-1
+Added Pin To Net: NetName=NetC72_1 Pin=U18-17
+Added Net: Name=NetC72_1
+Added Pin To Net: NetName=NetC74_1 Pin=C74-1
+Added Pin To Net: NetName=NetC74_1 Pin=U18-12
+Added Net: Name=NetC74_1
+Added Pin To Net: NetName=NetC74_2 Pin=C74-2
+Added Pin To Net: NetName=NetC74_2 Pin=R70-1
+Added Net: Name=NetC74_2
+Added Pin To Net: NetName=NetC75_1 Pin=C75-1
+Added Pin To Net: NetName=NetC75_1 Pin=U18-11
+Added Net: Name=NetC75_1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Pin To Net: NetName=NetC75_2 Pin=R71-1
+Added Net: Name=NetC75_2
+Added Pin To Net: NetName=NetC76_2 Pin=C76-2
+Added Pin To Net: NetName=NetC76_2 Pin=C77-2
+Added Pin To Net: NetName=NetC76_2 Pin=U18-20
+Added Net: Name=NetC76_2
+Added Pin To Net: NetName=NetC78_2 Pin=C78-2
+Added Pin To Net: NetName=NetC78_2 Pin=C79-2
+Added Pin To Net: NetName=NetC78_2 Pin=U18-19
+Added Net: Name=NetC78_2
+Added Pin To Net: NetName=NetC80_2 Pin=C80-2
+Added Pin To Net: NetName=NetC80_2 Pin=C81-2
+Added Pin To Net: NetName=NetC80_2 Pin=U18-10
+Added Net: Name=NetC80_2
+Added Pin To Net: NetName=NetC86_1 Pin=C86-1
+Added Pin To Net: NetName=NetC86_1 Pin=U19-8
+Added Net: Name=NetC86_1
+Added Pin To Net: NetName=NetC87_1 Pin=C87-1
+Added Pin To Net: NetName=NetC87_1 Pin=C89-2
+Added Pin To Net: NetName=NetC87_1 Pin=J15-2
+Added Pin To Net: NetName=NetC87_1 Pin=U19-1
+Added Net: Name=NetC87_1
+Added Pin To Net: NetName=NetC87_2 Pin=C87-2
+Added Pin To Net: NetName=NetC87_2 Pin=C88-1
+Added Net: Name=NetC87_2
+Added Pin To Net: NetName=NetC88_2 Pin=C88-2
+Added Pin To Net: NetName=NetC88_2 Pin=C89-1
+Added Pin To Net: NetName=NetC88_2 Pin=J15-1
+Added Pin To Net: NetName=NetC88_2 Pin=U19-3
+Added Net: Name=NetC88_2
+Added Pin To Net: NetName=NetC94_1 Pin=C94-1
+Added Pin To Net: NetName=NetC94_1 Pin=C96-2
+Added Net: Name=NetC94_1
+Added Pin To Net: NetName=NetC94_2 Pin=C94-2
+Added Pin To Net: NetName=NetC94_2 Pin=C95-2
+Added Pin To Net: NetName=NetC94_2 Pin=J16-2
+Added Pin To Net: NetName=NetC94_2 Pin=U19-16
+Added Net: Name=NetC94_2
+Added Pin To Net: NetName=NetC95_1 Pin=C95-1
+Added Pin To Net: NetName=NetC95_1 Pin=C96-1
+Added Pin To Net: NetName=NetC95_1 Pin=J16-1
+Added Pin To Net: NetName=NetC95_1 Pin=U19-14
+Added Net: Name=NetC95_1
+Added Pin To Net: NetName=NetR60_2 Pin=R60-2
+Added Pin To Net: NetName=NetR60_2 Pin=U18-1
+Added Net: Name=NetR60_2
+Added Pin To Net: NetName=NetR61_1 Pin=R61-1
+Added Pin To Net: NetName=NetR61_1 Pin=U1-23
+Added Net: Name=NetR61_1
+Added Pin To Net: NetName=NetR61_2 Pin=R61-2
+Added Pin To Net: NetName=NetR61_2 Pin=U18-5
+Added Net: Name=NetR61_2
+Added Pin To Net: NetName=NetR62_1 Pin=R62-1
+Added Pin To Net: NetName=NetR62_1 Pin=U1-24
+Added Net: Name=NetR62_1
+Added Pin To Net: NetName=NetR62_2 Pin=R62-2
+Added Pin To Net: NetName=NetR62_2 Pin=U18-7
+Added Net: Name=NetR62_2
+Added Pin To Net: NetName=NetR63_1 Pin=R63-1
+Added Pin To Net: NetName=NetR63_1 Pin=U1-25
+Added Net: Name=NetR63_1
+Added Pin To Net: NetName=NetR63_2 Pin=R63-2
+Added Pin To Net: NetName=NetR63_2 Pin=U18-6
+Added Net: Name=NetR63_2
+Added Pin To Net: NetName=NetR64_1 Pin=R64-1
+Added Pin To Net: NetName=NetR64_1 Pin=U1-26
+Added Net: Name=NetR64_1
+Added Pin To Net: NetName=NetR64_2 Pin=R64-2
+Added Pin To Net: NetName=NetR64_2 Pin=U18-8
+Added Net: Name=NetR64_2
+Added Pin To Net: NetName=NetR67_1 Pin=R67-1
+Added Pin To Net: NetName=NetR67_1 Pin=R68-1
+Added Pin To Net: NetName=NetR67_1 Pin=U18-26
+Added Net: Name=NetR67_1
+Added Pin To Net: NetName=NetR70_2 Pin=R70-2
+Added Pin To Net: NetName=NetR70_2 Pin=U19-7
+Added Net: Name=NetR70_2
+Added Pin To Net: NetName=NetR71_2 Pin=R71-2
+Added Pin To Net: NetName=NetR71_2 Pin=U19-10
+Added Net: Name=NetR71_2
+Added Pin To Net: NetName=NetU1_28 Pin=U1-28
+Added Pin To Net: NetName=NetU1_28 Pin=U19-5
+Added Net: Name=NetU1_28
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C28 10uF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C30 100nF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C31 100uF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C32 47uF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C42 47uF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C43 100nF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C50 470uF/35V
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C51 100nF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C52 100nF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C55 100nF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C61 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C62 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C70 10uF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C71 0.1uF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C72 0.1uF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C73 10uF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C74 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C75 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C76 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C77 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C78 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C79 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C80 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C81 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C82 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C83 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C84 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C85 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C86 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C87 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C88 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C89 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C94 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C95 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C96 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component D5 MBRS360BT3G
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component D15 SS56B-HF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component D19 SS56B-HF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component D20 SP0503BAHTG
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component J7 HEADER-2P
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component J10 HEADER-2P
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component J15 HEADER-2P
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component J16 HEADER-2P
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component Q10 S8050
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R20 10K
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R23 1K
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R28 100R
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R43 10K
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R44 47k
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R45 10K
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R47 1K
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R49 1K
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R51 1K
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R53 10K 5%
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R60 33R
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R61 33R
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R62 33R
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R63 33R
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R64 33R
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R65 4K7
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R66 4K7
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R67 10K
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R68 10K
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R69 0 R
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R70 10R 5%
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R71 10R 5%
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R90 10K
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component U14 LM7812S/NOPB
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component U17 AMS1117
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component U18 ES8388
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component U19 PAM8403DR
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component U20 DW01A
+Added Room: Name=TFT-ES32-V1.1
