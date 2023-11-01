@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Added Component: Designator=R101(R_0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=R101-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R101-2
+Added Net: Name=NetQ1_2
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R101 523k
+Added Room: Name=TFT-ES32-V1.1
