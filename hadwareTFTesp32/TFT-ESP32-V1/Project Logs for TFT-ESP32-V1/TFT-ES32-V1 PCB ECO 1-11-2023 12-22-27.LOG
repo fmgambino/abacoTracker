@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=V_EX Pin=Q1-3
+Change Component Comment : Designator=R11 Old Comment=10R 5% New Comment=10K 
+Change Component Comment : Designator=R44 Old Comment=47k New Comment=523k
+Change Component Comment : Designator=Y1 Old Comment=cristal New Comment=CRISTAL, SELLO DE VIDRIO CERAMICO, 25.000MHZ, 10PF, 30PPM @ 25C, 3
+Added Component: Designator=R100(R_0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=V_EX Pin=R100-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R44-2
+Added Pin To Net: NetName=NetQ1_3 Pin=R100-1
+Added Pin To Net: NetName=NetQ1_3 Pin=U13-5
+Added Net: Name=NetQ1_3
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R100 47K
+Added Room: Name=TFT-ES32-V1.1
