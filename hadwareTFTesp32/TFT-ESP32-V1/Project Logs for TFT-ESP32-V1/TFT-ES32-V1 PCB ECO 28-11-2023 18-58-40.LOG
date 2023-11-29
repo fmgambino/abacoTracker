@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC Pin=D16-A
+Removed Member From Class: ClassName=TFT-ES32-V1.1 Member=D10
+Removed Member From Class: ClassName=TFT-ES32-V1.1 Member=D16
+Added Pin To Net: NetName=VCC Pin=D8-A
+Added Room: Name=TFT-ES32-V1.1

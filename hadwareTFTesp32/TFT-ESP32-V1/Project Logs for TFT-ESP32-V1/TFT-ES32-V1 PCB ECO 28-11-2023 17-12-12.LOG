@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=+Va Pin=D4-1
+Change Component Comment : Designator=R11 Old Comment=10K  New Comment=10K
+Change Component Comment : Designator=R2 Old Comment=10R 5% New Comment=10K 5%
+Change Component Comment : Designator=R18 Old Comment=10R 5% New Comment=10K 5%
+Change Component Comment : Designator=Y1 Old Comment=CRISTAL, SELLO DE VIDRIO CERAMICO, 25.000MHZ, 10PF, 30PPM @ 25C, 3 New Comment=CRISTAL, SELLO DE VIDRIO CERAMICO, 12MHZ, 10PF, 30PPM @ 25C, 3
+Change Component Description : Designator=Y1 Old Description=CRISTAL, SELLO DE VIDRIO CERAMICO, 25.000MHZ, 10PF, 30PPM @ 25C, 3 New Description=CRISTAL, SELLO DE VIDRIO CERAMICO, 12MHZ, 10PF, 30PPM @ 25C, 3
+Change Component Description : Designator=L11 Old Description=Inductor: alambre; SMD; 33uH; 910mA; 240 mO; 7,3x7,3x3,2 mm; ±20% New Description=Inductor: alambre; SMD; 33uH; 910mA; 240 mO; 7,3x7,3x3,2 mm; ±20%
+Added Component: Designator=C99(C_0805-3D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C999(C_0805-3D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=D700(SS56B-HF DO-214AA (SMB))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "pakage"; Value = "DO-214AA (SMB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "part number"; Value = "SS56B-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "Diodo Schottky 60 V 5A"; VariantName = "[No Variations]"
+Added Component: Designator=L20(DE0703-33)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "22uH"; VariantName = "[No Variations]"
+Added Component: Designator=R1000(R_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10122(R_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(SOT95P280X145-6N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MB"; Value = "MT3608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Aerosemi Technology Co., Ltd"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+Va Pin=C99-1
+Added Pin To Net: NetName=GND Pin=C99-2
+Added Pin To Net: NetName=GND Pin=C999-1
+Added Pin To Net: NetName=+Va Pin=L20-1
+Added Pin To Net: NetName=GND Pin=R10122-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=+Va Pin=U?-4
+Added Pin To Net: NetName=+Va Pin=U?-5
+Added Pin To Net: NetName=NetD700_1 Pin=D700-1
+Added Pin To Net: NetName=NetD700_1 Pin=L20-2
+Added Pin To Net: NetName=NetD700_1 Pin=U?-1
+Added Net: Name=NetD700_1
+Added Pin To Net: NetName=NetR1000_1 Pin=R1000-1
+Added Pin To Net: NetName=NetR1000_1 Pin=R10122-2
+Added Pin To Net: NetName=NetR1000_1 Pin=U?-3
+Added Net: Name=NetR1000_1
+Added Pin To Net: NetName=V_Reg Pin=D4-1
+Added Pin To Net: NetName=V_Reg Pin=D700-2
+Added Pin To Net: NetName=V_Reg Pin=R1000-2
+Added Net: Name=V_Reg
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C99 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component C999 capacitor caramico
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component D700 SS56B-HF
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component L20 DE0703-33
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R1000 10K
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component R10122 56K
+Added Member To Class: ClassName=TFT-ES32-V1.1 Member=Component U? MT3608
+Added Room: Name=TFT-ES32-V1.1
